@@ -1,1 +1,1 @@
-# LimanY-netimVePlanlama
+# LimanYonetimVePlanlama
