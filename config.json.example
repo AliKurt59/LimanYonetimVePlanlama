@@ -1,0 +1,18 @@
+{
+    "database": {
+        "dbname": "liman_yonetim_db_v2",
+        "user": "postgres",
+        "password": "",
+        "host": "localhost",
+        "port": "5432"
+    },
+    "colors": {
+        "filled": "#e74c3c",
+        "pending": "#f1c40f",
+        "placeable": "#2ecc71",
+        "incompatible": "#e67e22",
+        "empty": "#bdc3c7",
+        "reefer": "#3498db"
+    },
+    "theme": "dark"
+}

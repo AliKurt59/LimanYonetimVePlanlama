@@ -1,0 +1,7 @@
+# Ana gereksinimler
+PyQt6>=6.5.0
+psycopg2-binary>=2.9.0
+qdarkstyle>=3.0.0
+
+# İsteğe bağlı gereksinimler
+# python-dotenv>=1.0.0  # .env dosyası desteği için (isteğe bağlı)
